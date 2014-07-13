@@ -15,7 +15,6 @@ ADD assets/server.js /home/jsdav/app/
 ADD assets/supervisord.conf /etc/supervisor/conf.d/supervisord.conf
 
 RUN mkdir data
-RUN mkdir public
 
 RUN npm install
 
