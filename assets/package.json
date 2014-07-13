@@ -1,0 +1,6 @@
+{
+  "name": "jsDAV",
+  "devDependencies": {
+    "jsDAV": "^0.3.2"
+  }
+}
