@@ -1,4 +1,4 @@
-FROM 5t111111/node:0.10.29
+FROM 5t111111/node:v0.10.31
 
 MAINTAINER 5t111111 https://github.com/5t111111
 
